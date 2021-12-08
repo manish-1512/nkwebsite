@@ -1,0 +1,361 @@
+.top-nav{
+  background-color: #235b96;
+}
+.top-icon a i{
+    color: white;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-size: 13px;
+}
+.top-link a{
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 8px;
+    margin-right: 8px;
+    color: rgba(255,255,255,0.5);
+}
+.top-link a:hover{  
+    color: rgba(255,255,255,0.8 );
+}
+.top-cont i,.top-cont span{
+    font-size: 13px;
+    color: rgba(255,255,255,0.5); 
+}
+.top-cont i:hover{
+    color: rgba(255,255,255,0.9); 
+}
+.top-cont span:hover{
+    color: rgba(255,255,255,0.9); 
+}
+.navbar{
+    background-color: #f8f9fa;
+}
+.nk-text{
+    color: #235b96;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 110%;
+}
+.ww{ width: 37%;}
+.search-bar{
+    background-color:#f8f9fa ;  
+    font-size: 17px;
+    font-weight: 400; 
+}
+
+#search:focus{
+    background-color:#f8f9fa;        
+}
+.contact-p{
+    background-color: #e9ecef;
+}
+.fa-search ,.sign-up a {color: #C0174C;font-weight: 400; }
+.fa-bars,.dropdown-toggle,.cart-icon i ,span{
+    color: #235b96;
+    font-size: 19px;
+    
+}
+.sign-up,.cart-icon{
+    border-right: 1px solid #b7c9dc ; 
+    
+}
+.nk-buyer{
+    font-size: 18px;
+    color:#235b96;
+    transform: scale(1, 1.2);
+}
+.sign-up-2{
+    color: #C0174C;
+    transform: scale(1, 1.1);
+}
+
+.s-icon-f {
+   border-radius: 50%;
+   height: 50px;
+   width: 50px;
+   font-size: 28px;
+   color: #235b96;
+   border:1px solid #235b96;
+}
+.s-icon-g {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    font-size: 28px;
+    color: #ed3630;
+   border:1px solid #ed3630;
+ }
+ .s-icon-l {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    font-size: 28px;
+    color: #40e1de;
+   border:1px solid #40e1de;
+ }
+ .reg-btn{
+     background-color: #C0174C;
+     color: whitesmoke;
+ }
+ .tab-btn{
+     background-color: #235b96;
+ }
+ .apply{
+     background-color: #235b96;
+ }
+ .ap-n{
+     background-color: #C0174C;
+     color: white;
+ }
+ .blu{
+     color: #235b96;
+ }
+ .an{background-color: #235b96;}    
+ .faq-txt{
+     background-color: rgb(255, 255, 255);
+     padding: 10px;
+     color: #235b96;
+     width: 100%;
+     font-weight: 500;
+     font-size: 17px;
+ }
+.faq-txt a{
+    color: #C0174C;
+} 
+.model-txt2{
+    font-size: 23px;
+    color: #C0174C;
+   
+    transform: scale(0.8, 1.2);
+}
+.menu{
+    color: #235b96;
+    font-weight: 500px;
+    font-size: 17px;
+    border:none;
+    background-color: transparent;
+}
+.np{
+    line-height: 90%;
+}
+.book-menu{
+    background-color: #235b96;
+   
+}
+.book-cat a{
+    color: whitesmoke;
+}
+
+
+.np span{
+    font-size: 13px;
+    font-weight: 500;
+}
+#show_2{
+    display: none;
+}
+#subeditor-form{
+    display: none;
+}
+.iti-books,.thb ,.faq{
+  color: #235b96;
+}
+.iti-books p{
+    transform: scale(1, 1.3);
+}
+.eh{
+    font-size: 30px;
+    font-weight: 600;
+    color: #235b96;
+}
+.thb{
+        font-size: 20px;
+        font-weight: 700;
+        transform: scale(.8, 1.2);
+}
+.eap-books{
+    color: #235b96;   
+}
+.eap-books p {
+    transform: scale(0.8, 1);  
+}
+.tbsp p{
+    font-size: 20px;
+    font-weight: 500;
+}
+.avl{
+    line-height: 90%;
+    font-size: 20px;
+    color: #235b96;
+}
+.bottom-nav{
+    background-color: #062542;
+}
+.blue{
+    height: 50px;
+    background-color: #235b96;
+}
+.w-p1{
+    font-size: 34px;
+    font-weight:700;
+    transform: scale(1,1.2);
+    color: #235b96;
+}
+.w-p2{
+    color: #235b96;
+    font-size: 17px;
+}
+.wel-neel{
+    background-color: #fafafa;
+}
+.bs-nl{
+    background-color: #f3f3f3;
+}
+.item 
+.cc{
+    text-align: center;
+}
+.cc p{
+
+    font-size: 16px;
+    font-weight:700;
+    line-height: 1.1;
+    color: white;
+    text-align: center;
+}
+.cc ul li a {
+    color: white;
+    font-size: 16px;
+    font-family:sans-serif  ;
+}
+.obs span{
+    font-size: 36px;
+    font-weight:700;
+    font-family:serif;    
+}
+.obs p {
+    color: #235b96;
+}
+.foot{
+    background-color: #01162B;
+}
+
+
+.love{
+    background-color: black;
+    
+}
+.love p a{
+    text-decoration: none;
+    color: white;
+}
+/* faq */
+
+
+/* faq */
+
+/* nk guru */
+
+.we-nvt{
+    color: #235b96;
+    transform: scale(0.8,1.2);
+    
+}
+.nk-guru{
+    color: #C0174C;
+    transform: scale(0.9,1.4);
+    font-weight: 500;
+}
+.translater-text{
+    font-size: 20px;
+    font-weight: 500;
+    color:#062542;
+}
+.lgt{
+    color:#235b96;
+    font-weight: 600;
+}
+address h5{
+    color: #C0174C;
+    font-weight: bold;
+}
+.adrs a {
+    color: #235b96;
+    text-decoration: none;
+    
+}
+address {
+    text-decoration: none;
+    color: #235b96;
+}
+.contact-h2{
+    color: #235b96;
+    font-weight: 600;
+    transform: scale(1,1.2);
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* .cont-form{
+    width: 42%;
+} */
+.sub{
+    background-color: #C0174C;
+}
+.nk-guru-p {
+    font-size: 20px;
+}
+.nk-guru-p2 {
+    font-size: 20px;
+    color: #235b96;
+}
+/* / */
+@media screen and (min-width: 764px) and (max-width:900px) {
+   .book-cat{
+    margin-left: 3px;
+    font-size: 14px;
+   }
+   .np span{
+       font-size: 12px;}
+  }
+ @media screen and (max-width:764px) {
+     .np span{
+         display: flex;
+         align-items: center
+     }
+ } 
+
+
+ @media (max-width: 992px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+    justify-content: center;
+}
+
+@media (min-width: 992px) {
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(16.6%);
+    }
+    
+    .carousel-inner .carousel-item-left.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-16.6%);
+    }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+    transform: translateX(0);
+}
+
+
+ 
